@@ -1,2 +1,2 @@
-# AdvancedRxAndDragons
-Sample code showing different advanced Rx/UI Techniques and Pitfalls
+# Advanced Rx And Dragons
+Sample code showing different advanced Rx/RxUI Techniques and Pitfalls
